@@ -12,6 +12,6 @@ echo "New group called $group has been created"
 echo " $user is being added to $group"
 sudo usermod -a -G $group $user
 echo "$user has been added to $group succesfully"
-echo "Let us cancel the Group and the User for Github"
+# bugs removed 
 
 
