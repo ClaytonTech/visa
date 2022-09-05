@@ -13,5 +13,6 @@ echo " $user is being added to $group"
 sudo usermod -a -G $group $user
 echo "$user has been added to $group succesfully"
 # bugs removed 
-
+echo "$user thanks for using this feature"
+echo " It also will lead to amazing upgrades to your psyche"
 
