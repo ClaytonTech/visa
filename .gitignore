@@ -1,49 +1,127 @@
 clear 
-git status 
-git-rev --parse-dir 
-git parse-rev --git -dir
+git branch 
+git rev-parse --git-dir
+touch .gitignore
+ls -a
+git status
+mv .bash_history .bash_logout .gitignore
 clear 
-git log 
-clear 
-git checkout master 
-git checkout Tatooine 
 ls
 ls -a
-touch .gitignore 
-mv .gitconfig .gitignore 
-mv .viminfo .gitignore 
-mv .git .gitignore 
-mv .bash_history .gitignore 
-ls
-ls -a
-git checkout Tatooine 
-ls 
-ls -a
-mv .gitconfig .gitignore 
-mv .bash_history .gitignore 
-cat Monitor.app
-vi Monitor.app
+clear 
 git status 
-git diff master 
-git rebase 
-git rebase master 
-git commit -a -m master 
+mv .viminfo .gitignore
+mv .zshrc .gitignore
+mv.kshrc .gitignore
+mv .gitconfig .gitignore
+git status
+mv .bash_history .gitignore
+mv .bash_logout .gitignore
+mv .bash_profile .gitignore
+git status
+mv .bashrc .gitignore
+mv .kshrc .gitignore
+git status
+cat yloop.sh
+clear 
+cat .gitignore
+git add.
+git add .
+git commit -m ".gitignore file created"
 git config --global user.name "Clayton"
-git config --global user.email "idiongoovertaker@gmail.com"
+git config --global user.email"idiongoovertaker@gmail.com"
+gif config --global --list 
 git config --global --list 
-git commit -a -m 
-git commit -a -m "Lets make this happen "
-get log 
-git log 
+git add .
+git commit -m ".gitignore created"
+git log
 clear 
-git checkout 
-git chekout master 
+ls 
+git status 
 git checkout master 
-git diff 
-git diff Tatooine 
-exit 
+git status 
+git checkout Endor 
+clear 
+git status 
+git branch 
+git checkout Tatooine
+ls
+git branch 
+git checkout master 
+ls
+git log
+clear 
+git branch 
+get checkout Tatooine 
+git checkout Tatooine 
+git diff master 
+git merge master 
+git status 
+git checkout master 
+ls
+git checkout Tatooine 
+git merge Tatooine 
+git checkout master 
+git diff Tatooine
+clear 
+git merge Tattoine 
+git merge Tattooine 
+git checkout master 
+las
+ls
+cat user_group
+git checkout master 
+git checkout Tatooine 
+git diff master 
+git merge Tatooine 
+git merge master 
+clear 
+git checkout Tatooine 
+cat user_group
+vi user_group
+git pull orca Tatooine 
+cat user_group
+git branch
+git diff master
+clear 
+git checkout master
+git master Endor 
+git branch master Endor 
+git checkout Tatooine 
+git Tatooine Endor 
+git branch Endor 
+git branch 
+ls
+rm yloop.sh
+ls
+git log 
+git status 
+clear 
+git branch 
+git commit -a -m
+git commit -a -m "Trying to sync files"
+git branch 
+git checkout master 
+git commit -a -m "Trying to sync"
+git config --global user.name "Clayton"
+git config --global user.email "idiongoovertaker@gmail.com
+"
+git config --global --list 
+git commit -a -m "Trying to sync"
+git branch 
+git checkout Tatooine  
+clear 
+ 
+clear 
  clear 
-hostname Dev
-sudo -i 
-sudo -i
-exit 
+git status 
+ls -a
+cat user_group
+git rebase 
+git rebase Tatooine 
+git log 
+git status
+mv .viminfo .gitignore
+mv .bash_history .gitignore
+ls -a
+git commit -a -m "Hey"
