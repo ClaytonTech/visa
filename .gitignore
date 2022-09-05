@@ -1,8 +1,49 @@
 clear 
+git status 
+git-rev --parse-dir 
+git parse-rev --git -dir
+clear 
+git log 
+clear 
+git checkout master 
+git checkout Tatooine 
+ls
+ls -a
+touch .gitignore 
+mv .gitconfig .gitignore 
+mv .viminfo .gitignore 
+mv .git .gitignore 
+mv .bash_history .gitignore 
+ls
+ls -a
+git checkout Tatooine 
+ls 
+ls -a
+mv .gitconfig .gitignore 
+mv .bash_history .gitignore 
+cat Monitor.app
+vi Monitor.app
+git status 
+git diff master 
+git rebase 
+git rebase master 
+git commit -a -m master 
+git config --global user.name "Clayton"
+git config --global user.email "idiongoovertaker@gmail.com"
+git config --global --list 
+git commit -a -m 
+git commit -a -m "Lets make this happen "
+get log 
+git log 
+clear 
+git checkout 
+git chekout master 
+git checkout master 
+git diff 
+git diff Tatooine 
+exit 
+ clear 
 hostname Dev
 sudo -i 
-ls
-clear 
-git status
-cat monitor_server.sh 
-clear 
+sudo -i
+exit 
