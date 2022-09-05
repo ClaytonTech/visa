@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# This script is for creating a user and also putting them in a group
+echo "Enter name of new user"
+read user
+sudo useradd $user
+echo " New user called $user has been created successfully"
+echo "Enter name for group being created"
+read group
+sudo groupadd $group
+echo "New group called $group has been created"
+echo " $user is being added to $group"
+sudo usermod -a -G $group $user
+echo "$user has been added to $group succesfully"
+
